@@ -15,3 +15,7 @@ Complete list the thing that I learn about go programming.
  - Careful with Go garbage collector or its runtime that maybe hogging the memory.
  - Always set the timeout if you use big concurrent call for your apps.
  - Be careful with channel! 
+
+### Proofing the article to get more insight
+
+ - Run the `main.go` file using `go run main.go`
